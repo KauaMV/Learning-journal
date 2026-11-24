@@ -6,4 +6,4 @@ I have coded two kind of enemy behaviours. One is a simple patrol where the enem
 back patrol to point B, doing the same and staying a loop, patrolling an area. The second one, is a enemy follow, the enemy will have an range
 in this range when the player reach it with the tag "player" the enemy will start following them until they get off of the range.
 
-#  / Player movement
+# 24/11/2026 / Player movement
