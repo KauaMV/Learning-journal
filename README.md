@@ -6,4 +6,6 @@ I have coded two kind of enemy behaviours. One is a simple patrol where the enem
 back patrol to point B, doing the same and staying a loop, patrolling an area. The second one, is a enemy follow, the enemy will have an range
 in this range when the player reach it with the tag "player" the enemy will start following them until they get off of the range.
 
-# 24/11/2026 / Player movement
+# 24/11/2026 to 25/11/2026 / Player movement
+I had coded the basics of a player movement script for a 2d two direction game, like walk left to right and jump. In the script there is also 
+the animation of walking, idle and jumping.
